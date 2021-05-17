@@ -1,0 +1,25 @@
+.formbox{
+    border: solid black 2px;
+    height: fit-content;
+    width: fit-content;
+    padding: 40px;
+}
+.uinput{
+    font-family: cursive;
+    font-size: 18px;
+    
+}
+.input{
+    width: 300px;
+    margin-left: 50px;
+}
+select{
+    width: 300px;
+    font-size: 16px;
+}
+#button{
+    width: 100px;
+    margin-left: 420px;
+    background-color: lightskyblue;
+    box-shadow: 1px 1px 1px black;
+}
